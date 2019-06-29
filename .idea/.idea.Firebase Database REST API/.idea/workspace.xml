@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="424a4f3d-730c-4ec9-ba12-79e0bca2a313" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/User.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1561807747740" expanded="true" signature="15:108" ph="/// The user class, which gets uploaded to the Firebase Database ... " />
+                <marker date="1561807747740" expanded="true" signature="200:424" ph="{...}" />
+                <marker date="1561807747740" expanded="true" signature="328:422" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="56" column="61" lean-forward="true" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+              <folding>
+                <marker date="1561808076746" expanded="false" signature="6:137" ph="..." />
+                <marker date="1561808076746" expanded="true" signature="183:2484" ph="{...}" />
+                <marker date="1561808076746" expanded="true" signature="645:961" ph="/// Adds a user to the Firebase Database ... " />
+                <marker date="1561808076746" expanded="true" signature="1046:1165" ph="{...}" />
+                <marker date="1561808076746" expanded="true" signature="1171:1443" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
+                <marker date="1561808076746" expanded="true" signature="1515:1628" ph="{...}" />
+                <marker date="1561808076746" expanded="true" signature="1634:1812" ph="/// Gets all users from the Firebase Database ... " />
+                <marker date="1561808076746" expanded="true" signature="1871:2482" ph="{...}" />
+                <marker date="1561808076746" expanded="true" signature="1954:2474" ph="{...}" />
+                <marker date="1561808076746" expanded="true" signature="2015:2174" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+              <folding>
+                <marker date="1561808231801" expanded="true" signature="53:1196" ph="{...}" />
+                <marker date="1561808231801" expanded="true" signature="60:411" ph="/// This class is just the implementation of all the functions shown in DatabaseHandler ... " />
+                <marker date="1561808231801" expanded="true" signature="531:1193" ph="{...}" />
+                <marker date="1561808231801" expanded="true" signature="649:1063" ph="{...}" />
+                <marker date="1561808231801" expanded="true" signature="713:791" ph="{...}" />
+                <marker date="1561808231801" expanded="true" signature="865:1051" ph="{...}" />
+                <marker date="1561808231801" expanded="true" signature="910:1037" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FullSerializer/Source/fsSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7ECB3A6-65B2-4F6B-B10A-E6154A6DB922/f7/5faa5407/RuntimeInitializeLoadType.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/User.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Users.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/User.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="100" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="424a4f3d-730c-4ec9-ba12-79e0bca2a313" name="Default Changelist" comment="" />
+      <created>1561804018448</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561804018448</updated>
+      <workItem from="1561804024126" duration="4207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4207000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1602" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967907" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D7ECB3A6-65B2-4F6B-B10A-E6154A6DB922/f7/5faa5407/RuntimeInitializeLoadType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/FullSerializer/Source/fsSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="743" column="13" selection-start-line="743" selection-start-column="13" selection-end-line="743" selection-end-column="13" />
+          <folding>
+            <marker date="1561389291086" expanded="false" signature="6:78" ph="..." />
+            <marker date="1561389291086" expanded="true" signature="209:44495" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="241:44493" ph="{...}" />
+            <marker date="1561389291086" expanded="false" signature="251:5882" ph="Keys" />
+            <marker date="1561389291086" expanded="true" signature="352:598" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="406:587" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="607:811" ph="/// Returns true if the given key is a special keyword that full ... " />
+            <marker date="1561389291086" expanded="true" signature="869:932" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="942:1045" ph="/// This is an object reference in part of a cyclic graph. ... " />
+            <marker date="1561389291086" expanded="true" signature="1177:1282" ph="/// This is an object definition, as part of a cyclic graph. ... " />
+            <marker date="1561389291086" expanded="true" signature="1414:1573" ph="/// This specifies the actual type of an object (the instance type was ... " />
+            <marker date="1561389291086" expanded="true" signature="1703:1795" ph="/// The version string for the serialized data. ... " />
+            <marker date="1561389291086" expanded="true" signature="1923:2108" ph="/// If we have to add metadata but the original serialized state was not ... " />
+            <marker date="1561389291086" expanded="true" signature="2287:2427" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="2488:2629" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="2683:2815" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="2873:3010" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="3066:3198" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="3208:3578" ph="/// Strips all deserialization metadata from the object, like $type and ... " />
+            <marker date="1561389291086" expanded="true" signature="3652:4103" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="3735:3805" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="3842:4093" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="4113:4312" ph="/// This function converts legacy serialization data into the new format, ... " />
+            <marker date="1561389291086" expanded="true" signature="4376:5858" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="4997:5215" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="5362:5590" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="5701:5848" ph="{...}" />
+            <marker date="1561389291086" expanded="false" signature="5892:7713" ph="Utility Methods" />
+            <marker date="1561389291086" expanded="true" signature="6040:6194" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="6097:6184" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="6335:6757" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="6349:6589" ph="/* We run the after calls in reverse order; this significantly ... */" />
+            <marker date="1561389291086" expanded="true" signature="6651:6747" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="6884:7040" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="6941:7030" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7205:7392" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7262:7382" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7518:7678" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7580:7668" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7723:7870" ph="/// Ensures that the data is a dictionary. If it is not, then it is ... " />
+            <marker date="1561389291086" expanded="true" signature="7929:8153" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="7975:8143" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="8163:8574" ph="/// This manages instance writing so that we do not write unnecessary $id ... " />
+            <marker date="1561389291086" expanded="true" signature="8626:9970" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="8854:9161" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="8902:9054" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9054:9147" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9243:9829" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9362:9622" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9622:9704" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9863:9960" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="9980:10201" ph="/* &lt;summary&gt; Converter type to converter instance lookup table. This ... */" />
+            <marker date="1561389291086" expanded="true" signature="10350:10435" ph="/// A cache from type to it's converter. ... " />
+            <marker date="1561389291086" expanded="true" signature="10514:10632" ph="/// A cache from type to the set of processors that are interested in it. ... " />
+            <marker date="1561389291086" expanded="true" signature="10719:10818" ph="/// Converters that can be used for type registration. ... " />
+            <marker date="1561389291086" expanded="true" signature="10893:11223" ph="/// Direct converters (optimized _converters). We use these so we don't ... " />
+            <marker date="1561389291086" expanded="true" signature="11322:11401" ph="/// Processors that are available. ... " />
+            <marker date="1561389291086" expanded="true" signature="11473:11560" ph="/// Reference manager for cycle detection. ... " />
+            <marker date="1561389291086" expanded="true" signature="11708:12196" ph="/// Allow the user to provide default storage types for interfaces and abstract ... " />
+            <marker date="1561389291086" expanded="true" signature="12347:13075" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="12501:12865" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="12662:12851" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="12866:13065" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="13107:15471" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="13490:13720" ph="/* note: The order here is important. Items at the beginning of this ... */" />
+            <marker date="1561389291086" expanded="true" signature="13778:14545" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="14688:14758" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="15358:15461" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="15481:15615" ph="/// A context object that fsConverters can use to customize how they ... " />
+            <marker date="1561389291086" expanded="true" signature="15659:15755" ph="/// Configuration options. Also see fsGlobalConfig. ... " />
+            <marker date="1561389291086" expanded="true" signature="15797:16045" ph="/// Add a new processor to the serializer. Multiple processors can run at ... " />
+            <marker date="1561389291086" expanded="true" signature="16108:16535" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="16163:16444" ph="/* We need to reset our cached processor set, as it could be invalid ... */" />
+            <marker date="1561389291086" expanded="true" signature="16545:16645" ph="/// Remove all processors which derive from TProcessor. ... " />
+            <marker date="1561389291086" expanded="true" signature="16696:17345" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="16763:16959" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="16815:16879" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="16879:16945" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="16973:17254" ph="/* We need to reset our cached processor set, as it could be invalid ... */" />
+            <marker date="1561389291086" expanded="true" signature="17355:17745" ph="/// Provide a default storage type for the given abstract or interface type. If ... " />
+            <marker date="1561389291086" expanded="true" signature="17832:18095" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="18105:18203" ph="/// Fetches all of the processors for the given type. ... " />
+            <marker date="1561389291086" expanded="true" signature="18269:19531" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="18332:18610" ph="/* Check to see if the user has defined a custom processor for the ... */" />
+            <marker date="1561389291086" expanded="true" signature="18750:19015" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="19099:19489" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="19222:19420" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="19328:19402" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="19541:19698" ph="/// Adds a new converter that can be used to customize how an object is ... " />
+            <marker date="1561389291086" expanded="true" signature="19759:21222" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="19807:20019" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="20033:20157" ph="/* TODO: wrap inside of a ConverterManager so we can control ... */" />
+            <marker date="1561389291086" expanded="true" signature="20206:20378" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="20426:20513" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="20513:20802" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="20858:21139" ph="/* We need to reset our cached converter set, as it could be invalid ... */" />
+            <marker date="1561389291086" expanded="true" signature="21232:21347" ph="/// Fetches a converter that can serialize/deserialize the given type. ... " />
+            <marker date="1561389291086" expanded="true" signature="21432:24321" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="21446:21541" ph="/* Use an override converter type instead if that's what the user has ... */" />
+            <marker date="1561389291086" expanded="true" signature="21589:22093" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="21760:22036" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="22254:22303" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="22317:22596" ph="/* Check to see if the user has defined a custom converter for the ... */" />
+            <marker date="1561389291086" expanded="true" signature="22758:22981" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23183:23377" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23405:23519" ph="/* There is no specific converter specified; try all of the general ... */" />
+            <marker date="1561389291086" expanded="true" signature="23597:24201" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23665:23814" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23814:24187" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23911:24169" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="23983:24147" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="24331:24483" ph="/// Helper method that simply forwards the call to ... " />
+            <marker date="1561389291086" expanded="true" signature="24553:24628" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="24638:24755" ph="/// Generic wrapper around TryDeserialize that simply forwards the call. ... " />
+            <marker date="1561389291086" expanded="true" signature="24827:25052" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="24965:25017" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="25062:25671" ph="/// Serialize the given value. ... " />
+            <marker date="1561389291086" expanded="true" signature="25761:25844" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="25854:26711" ph="/// Serialize the given value. ... " />
+            <marker date="1561389291086" expanded="true" signature="26829:27524" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="27109:27288" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="27665:30237" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="27741:30081" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="27759:28101" ph="/* Note that we enter the reference group at the beginning of ... */" />
+            <marker date="1561389291086" expanded="true" signature="28367:28502" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="28520:28883" ph="/* We've already serialized this object instance (or it is ... */" />
+            <marker date="1561389291086" expanded="true" signature="28939:29171" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="29189:29519" ph="/* Mark inside the object graph that we've serialized the ... */" />
+            <marker date="1561389291086" expanded="true" signature="29591:29768" ph="/* We've created the cycle metadata, so we can now serialize the ... */" />
+            <marker date="1561389291086" expanded="true" signature="30102:30227" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="30144:30213" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="30375:31507" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="30389:30531" ph="/* Serialize the actual object with the field type being the same as ... */" />
+            <marker date="1561389291086" expanded="true" signature="30725:31103" ph="/* Do we need to add type information? If the field type and the ... */" />
+            <marker date="1561389291086" expanded="true" signature="31262:31460" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="31634:33083" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="31648:32104" ph="/* note: We do not have to take a Type parameter here, since at this ... */" />
+            <marker date="1561389291086" expanded="true" signature="32270:32854" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="32366:32474" ph="/* Serialize the actual object content; we'll just wrap it with ... */" />
+            <marker date="1561389291086" expanded="true" signature="32868:32980" ph="/* This type has no versioning information -- directly serialize it ... */" />
+            <marker date="1561389291086" expanded="true" signature="33201:33380" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="33390:33495" ph="/// Attempts to deserialize a value from a serialized state. ... " />
+            <marker date="1561389291086" expanded="true" signature="33585:33668" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="33678:33783" ph="/// Attempts to deserialize a value from a serialized state. ... " />
+            <marker date="1561389291086" expanded="true" signature="33901:35084" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="33932:34233" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="34351:35002" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="34369:34607" ph="/* We wrap the entire deserialize call in a reference group so ... */" />
+            <marker date="1561389291086" expanded="true" signature="34863:34962" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="35023:35074" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="35266:36584" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="35280:36141" ph="/* We handle object references first because we could be ... */" />
+            <marker date="1561389291086" expanded="true" signature="36183:36453" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="36759:39129" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="36796:38994" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="37169:38980" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="37501:37639" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="37946:38056" ph="/* TODO: we probably should be invoking object processors all ... */" />
+            <marker date="1561389291086" expanded="true" signature="38114:38195" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="38217:38590" ph="/* Our data contained an object definition ($id) that was ... */" />
+            <marker date="1561389291086" expanded="true" signature="38641:38838" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="39308:42803" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="39421:39705" ph="/* If the serialized state contains type information, then we need to ... */" />
+            <marker date="1561389291086" expanded="true" signature="39745:40885" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="39839:39927" ph="/* we wrap everything in a do while false loop so we can break ... */" />
+            <marker date="1561389291086" expanded="true" signature="40005:40177" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="40341:40511" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="40582:40798" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="40966:41209" ph="/* We wait until here to actually Invoke_OnBeforeDeserialize because ... */" />
+            <marker date="1561389291086" expanded="true" signature="41436:41667" ph="/* Construct an object instance if we don't have one already. We also ... */" />
+            <marker date="1561389291086" expanded="true" signature="41749:41871" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="41885:42063" ph="/* We call OnBeforeDeserializeAfterInstanceCreation here because we ... */" />
+            <marker date="1561389291086" expanded="true" signature="42181:42669" ph="/* NOTE: It is critically important that we pass the actual ... */" />
+            <marker date="1561389291086" expanded="true" signature="42936:44118" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="42980:43923" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="42998:43750" ph="/* NOTE: object references are handled at stage 1 ... */" />
+            <marker date="1561389291086" expanded="true" signature="44254:44487" ph="{...}" />
+            <marker date="1561389291086" expanded="true" signature="44293:44363" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Users.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="56" column="61" lean-forward="true" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+          <folding>
+            <marker date="1561808076746" expanded="false" signature="6:137" ph="..." />
+            <marker date="1561808076746" expanded="true" signature="183:2484" ph="{...}" />
+            <marker date="1561808076746" expanded="true" signature="645:961" ph="/// Adds a user to the Firebase Database ... " />
+            <marker date="1561808076746" expanded="true" signature="1046:1165" ph="{...}" />
+            <marker date="1561808076746" expanded="true" signature="1171:1443" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
+            <marker date="1561808076746" expanded="true" signature="1515:1628" ph="{...}" />
+            <marker date="1561808076746" expanded="true" signature="1634:1812" ph="/// Gets all users from the Firebase Database ... " />
+            <marker date="1561808076746" expanded="true" signature="1871:2482" ph="{...}" />
+            <marker date="1561808076746" expanded="true" signature="1954:2474" ph="{...}" />
+            <marker date="1561808076746" expanded="true" signature="2015:2174" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1561807747740" expanded="true" signature="15:108" ph="/// The user class, which gets uploaded to the Firebase Database ... " />
+            <marker date="1561807747740" expanded="true" signature="200:424" ph="{...}" />
+            <marker date="1561807747740" expanded="true" signature="328:422" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <marker date="1561808231801" expanded="true" signature="53:1196" ph="{...}" />
+            <marker date="1561808231801" expanded="true" signature="60:411" ph="/// This class is just the implementation of all the functions shown in DatabaseHandler ... " />
+            <marker date="1561808231801" expanded="true" signature="531:1193" ph="{...}" />
+            <marker date="1561808231801" expanded="true" signature="649:1063" ph="{...}" />
+            <marker date="1561808231801" expanded="true" signature="713:791" ph="{...}" />
+            <marker date="1561808231801" expanded="true" signature="865:1051" ph="{...}" />
+            <marker date="1561808231801" expanded="true" signature="910:1037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
