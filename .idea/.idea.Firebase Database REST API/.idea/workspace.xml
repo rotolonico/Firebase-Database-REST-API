@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="424a4f3d-730c-4ec9-ba12-79e0bca2a313" name="Default Changelist" comment="" />
+    <list default="true" id="424a4f3d-730c-4ec9-ba12-79e0bca2a313" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firebase Database REST API/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firebase Database REST API/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Firebase Database REST API/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Firebase Database REST API/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/User.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <marker date="1561807747740" expanded="true" signature="15:108" ph="/// The user class, which gets uploaded to the Firebase Database ... " />
                 <marker date="1561807747740" expanded="true" signature="200:424" ph="{...}" />
@@ -24,32 +28,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="56" column="61" lean-forward="true" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
+            <state relative-caret-position="75">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
               <folding>
-                <marker date="1561808076746" expanded="false" signature="6:137" ph="..." />
-                <marker date="1561808076746" expanded="true" signature="183:2484" ph="{...}" />
-                <marker date="1561808076746" expanded="true" signature="645:961" ph="/// Adds a user to the Firebase Database ... " />
-                <marker date="1561808076746" expanded="true" signature="1046:1165" ph="{...}" />
-                <marker date="1561808076746" expanded="true" signature="1171:1443" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
-                <marker date="1561808076746" expanded="true" signature="1515:1628" ph="{...}" />
-                <marker date="1561808076746" expanded="true" signature="1634:1812" ph="/// Gets all users from the Firebase Database ... " />
-                <marker date="1561808076746" expanded="true" signature="1871:2482" ph="{...}" />
-                <marker date="1561808076746" expanded="true" signature="1954:2474" ph="{...}" />
-                <marker date="1561808076746" expanded="true" signature="2015:2174" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
+                <marker date="1561823470399" expanded="true" signature="6:73" ph="..." />
+                <marker date="1561823470399" expanded="true" signature="110:2411" ph="{...}" />
+                <marker date="1561823470399" expanded="true" signature="572:888" ph="/// Adds a user to the Firebase Database ... " />
+                <marker date="1561823470399" expanded="true" signature="973:1092" ph="{...}" />
+                <marker date="1561823470399" expanded="true" signature="1098:1370" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
+                <marker date="1561823470399" expanded="true" signature="1442:1555" ph="{...}" />
+                <marker date="1561823470399" expanded="true" signature="1561:1739" ph="/// Gets all users from the Firebase Database ... " />
+                <marker date="1561823470399" expanded="true" signature="1798:2409" ph="{...}" />
+                <marker date="1561823470399" expanded="true" signature="1881:2401" ph="{...}" />
+                <marker date="1561823470399" expanded="true" signature="1942:2101" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="270">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <marker date="1561808231801" expanded="true" signature="53:1196" ph="{...}" />
                 <marker date="1561808231801" expanded="true" signature="60:411" ph="/// This class is just the implementation of all the functions shown in DatabaseHandler ... " />
@@ -65,6 +69,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/FullSerializer/Source/fsSerializer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs" root0="FORCE_HIGHLIGHTING" />
@@ -77,8 +84,15 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Users.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/User.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Main.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Firebase Database REST API/.idea/vcs.xml" />
       </list>
     </option>
   </component>
@@ -88,38 +102,21 @@
     <option name="width" value="1400" />
     <option name="height" value="835" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Assets" type="8711f2a6:AssetsRoot" />
-              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="e068e287:UnityExplorerRootNode" />
-              <item name="Packages" type="4e2708dd:PackagesRoot" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-hidden-items" value="false" />
-        <option name="show-project-names" value="true" />
-      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,12 +168,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561804018448</updated>
-      <workItem from="1561804024126" duration="4207000" />
+      <workItem from="1561804024126" duration="6744000" />
+      <workItem from="1561819954239" duration="3228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4207000" />
+    <option name="totallyTimeSpent" value="9972000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -191,18 +189,9 @@
     <frame x="-1" y="0" width="1602" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24967907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25288832" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -210,12 +199,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,36 +426,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Users.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="56" column="61" lean-forward="true" selection-start-line="56" selection-start-column="61" selection-end-line="56" selection-end-column="61" />
-          <folding>
-            <marker date="1561808076746" expanded="false" signature="6:137" ph="..." />
-            <marker date="1561808076746" expanded="true" signature="183:2484" ph="{...}" />
-            <marker date="1561808076746" expanded="true" signature="645:961" ph="/// Adds a user to the Firebase Database ... " />
-            <marker date="1561808076746" expanded="true" signature="1046:1165" ph="{...}" />
-            <marker date="1561808076746" expanded="true" signature="1171:1443" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
-            <marker date="1561808076746" expanded="true" signature="1515:1628" ph="{...}" />
-            <marker date="1561808076746" expanded="true" signature="1634:1812" ph="/// Gets all users from the Firebase Database ... " />
-            <marker date="1561808076746" expanded="true" signature="1871:2482" ph="{...}" />
-            <marker date="1561808076746" expanded="true" signature="1954:2474" ph="{...}" />
-            <marker date="1561808076746" expanded="true" signature="2015:2174" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Users.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/User.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <marker date="1561807747740" expanded="true" signature="15:108" ph="/// The user class, which gets uploaded to the Firebase Database ... " />
             <marker date="1561807747740" expanded="true" signature="200:424" ph="{...}" />
@@ -468,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Main.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <marker date="1561808231801" expanded="true" signature="53:1196" ph="{...}" />
             <marker date="1561808231801" expanded="true" signature="60:411" ph="/// This class is just the implementation of all the functions shown in DatabaseHandler ... " />
@@ -478,6 +451,25 @@
             <marker date="1561808231801" expanded="true" signature="713:791" ph="{...}" />
             <marker date="1561808231801" expanded="true" signature="865:1051" ph="{...}" />
             <marker date="1561808231801" expanded="true" signature="910:1037" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DatabaseHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1561823470399" expanded="true" signature="6:73" ph="..." />
+            <marker date="1561823470399" expanded="true" signature="110:2411" ph="{...}" />
+            <marker date="1561823470399" expanded="true" signature="572:888" ph="/// Adds a user to the Firebase Database ... " />
+            <marker date="1561823470399" expanded="true" signature="973:1092" ph="{...}" />
+            <marker date="1561823470399" expanded="true" signature="1098:1370" ph="/// Retrieves a user from the Firebase Database, given their id ... " />
+            <marker date="1561823470399" expanded="true" signature="1442:1555" ph="{...}" />
+            <marker date="1561823470399" expanded="true" signature="1561:1739" ph="/// Gets all users from the Firebase Database ... " />
+            <marker date="1561823470399" expanded="true" signature="1798:2409" ph="{...}" />
+            <marker date="1561823470399" expanded="true" signature="1881:2401" ph="{...}" />
+            <marker date="1561823470399" expanded="true" signature="1942:2101" ph="/* Using the FullSerializer library: https://github.com/jacobdufault/fullserializer ... */" />
           </folding>
         </state>
       </provider>

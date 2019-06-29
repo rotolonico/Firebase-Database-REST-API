@@ -1,11 +1,8 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using FullSerializer;
 using Proyecto26;
-using UnityEngine;
 
-public class DatabaseHandler : MonoBehaviour
+public static class DatabaseHandler
 {
     private const string projectId = "nico-the-weather"; // You can find this in your Firebase project settings
     private static readonly string databaseURL = $"https://{projectId}.firebaseio.com/";
